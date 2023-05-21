@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p align="center">Learning_Python :whale: </p>
+  <p align="center">Learning_Python :snake: </p>
   <a><img height="250" src="https://github.com/caiocfpeixoto/Learning_python-/assets/63310044/7fd0fa9e-aa3a-40d8-b9b5-16448684bed7" alt="Java banner"></a>
 </h1>
 
