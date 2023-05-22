@@ -8,11 +8,11 @@
 </p>
 
 ## Descrição :scroll:
-Neste repositório demonstro como está caminhando meu aprendizado com Docker, desde de toda parte teórica até a parte prática com exemplos de cada tópico.
+Neste repositório demonstro como está caminhando meu aprendizado com python, desde de toda parte teórica até a parte prática com exemplos de cada tópico.
 
 
 ## Sumário :books:
-* [Trabalhando com containers](https://github.com/caiocfpeixoto/Learning_Docker#--trabalhando-com-containers-snail) :snail:
+* [Introdução] :snail:
 
 
 <h2 align="center">
